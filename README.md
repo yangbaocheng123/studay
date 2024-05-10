@@ -1,0 +1,2 @@
+# studay
+learn to progam
